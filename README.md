@@ -1,4 +1,4 @@
-# Credit Card Weekly Dashboard with Power BI 📊
+# Credit Card Weekly Dashboard with Power BI
 
 ## Overview
 Welcome to the Credit Card Weekly Dashboard project! This repository contains the code and resources used to create a dynamic Power BI dashboard for monitoring and analyzing key performance metrics and trends in credit card operations.
